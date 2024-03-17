@@ -1,4 +1,8 @@
-### Hi there 👋
+ Hello, I'm Nitika Jain 👋
+
+ I'm a frontend developer passionate about creating delightful user experiences and building scalable web applications. With expertise in React.js, Next.js, Tailwind CSS, and Firebase, I strive to craft elegant solutions to complex problems.
+
+
 
 <!--
 **nitika-jain04/nitika-jain04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
