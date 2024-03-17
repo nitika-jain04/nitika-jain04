@@ -1,14 +1,15 @@
- Hello, I'm Nitika Jain 👋
+ # Hi! I'm Nitika Jain👋
 
  ## I'm a frontend developer creating delightful user experiences.
  
- Tech Stack: Next.js, React.js, JavaScript, Tailwind CSS. 
+ ## Tech Stack: Next.js, React.js, JavaScript, Tailwind CSS. 
 
  - I Develop responsive and intuitive user interfaces using React.js and Next.js.
  - Style applications with efficiency and consistency using Tailwind CSS.
 
 
-I'm always open to new opportunities, collaborations, and conversations. Don't hesitate to reach out – let's build something amazing together! 😊
+I'm always open to new opportunities, collaborations, and conversations.
+Don't hesitate to reach out – let's build something amazing together! 😊
 
 <!--
 **nitika-jain04/nitika-jain04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
