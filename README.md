@@ -1,6 +1,6 @@
  # Hi! I'm Nitika Jain👋
 
- 👩🏻‍💻 I'm a frontend developer crafting delightful user experiences.
+ ### 👩🏻‍💻 I'm a frontend developer crafting delightful user experiences.
  
  ### Tech Stack: Next.js, React.js, JavaScript, Tailwind CSS. 
 
@@ -8,7 +8,7 @@
  - Style applications with efficiency and consistency using Tailwind CSS.
 
 
-I'm always open to new opportunities, collaborations, and conversations.
+I'm always open to new opportunities, collaborations, and conversations. 🤘🏻
 Don't hesitate to reach out – let's build something amazing together! 😊
 
 <!--
