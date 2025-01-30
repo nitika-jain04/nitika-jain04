@@ -2,7 +2,7 @@
 
  ### 👩🏻‍💻 I'm a frontend developer crafting delightful user experiences.
  
- ### Tech Stack: Next.js, React.js, JavaScript, Tailwind CSS. 
+ ### Tech Stack: Next.js, React.js, React Native, TypeScript, Tailwind CSS. 
 
  - I Develop responsive and intuitive user interfaces using React.js and Next.js.
  - Style applications with efficiency and consistency using Tailwind CSS.
