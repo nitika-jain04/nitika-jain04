@@ -1,6 +1,6 @@
 Hi, I'm Nitika Jain! 👋
 
-<font size="40">👩🏻‍💻 Software Engineer | Frontend Developer</font>
+<h3>👩🏻‍💻 Software Engineer | Frontend Developer</h3>
 
 🚀 Tech Stack: Next.js, React, React native, TypeScript, JavaScript, Tailwind CSS
 
