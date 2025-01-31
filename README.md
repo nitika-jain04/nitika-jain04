@@ -6,8 +6,9 @@
 <li>📱 Creating dynamic cross-platform mobile apps with React Native.</li>
 <li>💡 Open to opportunities, collaboration and discussions.</li>
 
+📫 Let's Connect: <a src="https://nitika-nextjs-portfolio.vercel.app/">Portfolio</a>
 
-<!--📫 Let's Connect: LinkedIn | Portfolio | Twitter
+<!--LinkedIn | Portfolio | Twitter
 
 <!--
 🎨 Styling modern, responsive applications using Tailwind CSS for efficiency and consistency.
