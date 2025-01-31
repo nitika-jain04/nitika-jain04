@@ -2,9 +2,9 @@
 
 <h2>🚀 Tech Stack: Next.js | React | React native | TypeScript | JavaScript | Tailwind CSS</h2>
 
-🎨 Building seamless and engaging user experiences with React and Next.js.
-📱 Creating dynamic cross-platform mobile apps with React Native
-💡 Open to opportunities, collaboration and discussions.
+<li>🎨 Building seamless and engaging user experiences with React and Next.js</li>
+<li>📱 Creating dynamic cross-platform mobile apps with React Native.</li>
+<li>💡 Open to opportunities, collaboration and discussions.</li>
 
 
 <!--📫 Let's Connect: LinkedIn | Portfolio | Twitter
