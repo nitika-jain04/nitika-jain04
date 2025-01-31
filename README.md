@@ -6,7 +6,7 @@
 <li>📱 Creating dynamic cross-platform mobile apps with React Native.</li>
 <li>💡 Open to opportunities, collaboration and discussions.</li>
 
-📫 Let's Connect:[Portfolio] (https://nitika-nextjs-portfolio.vercel.app/)
+<li>📫 Let's Connect:[Portfolio](#https://nitika-nextjs-portfolio.vercel.app/).</li>
 
 <!--LinkedIn | Portfolio | Twitter
 
