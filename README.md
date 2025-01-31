@@ -8,7 +8,7 @@
 
 <li>📫 Let's Connect:[Portfolio](https://nitika-nextjs-portfolio.vercel.app/).</li>
 
-<a name="my-custom-anchor-point">Anchor</a>
+<a name="my-custom-anchor-point" href="https://nitika-nextjs-portfolio.vercel.app/">Anchor</a>
 [A link to that custom anchor](#https://nitika-nextjs-portfolio.vercel.app/)
 
 <!--LinkedIn | Portfolio | Twitter
