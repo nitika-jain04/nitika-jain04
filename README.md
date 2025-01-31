@@ -1,15 +1,12 @@
 <h3>👩🏻‍💻 Software Engineer | Frontend Developer</h3>
 
-<h2>🚀 Tech Stack: Next.js | React | React native | TypeScript | JavaScript | Tailwind CSS</h2>
+<h2>🚀 Tech Stack: Next.js | React | React native | TypeScript | JavaScript | Tailwind CSS </h2>
 
 <li>🎨 Building seamless and engaging user experiences with React and Next.js</li>
 <li>📱 Creating dynamic cross-platform mobile apps with React Native.</li>
 <li>💡 Open to opportunities, collaboration and discussions.</li>
 
-<li>📫 Let's Connect:[Portfolio](https://nitika-nextjs-portfolio.vercel.app/).</li>
-
-<a name="my-custom-anchor-point" href="https://nitika-nextjs-portfolio.vercel.app/">Anchor</a>
-[A link to that custom anchor](#https://nitika-nextjs-portfolio.vercel.app/)
+<li>📫 Let's Connect:<a name="my-portfolio" href="https://nitika-nextjs-portfolio.vercel.app/">Portfolio</a></li>
 
 <!--LinkedIn | Portfolio | Twitter
 
