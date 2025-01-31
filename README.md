@@ -5,7 +5,8 @@
 <li>🎨 Building seamless and engaging user experiences with React and Next.js</li>
 <li>📱 Creating dynamic cross-platform mobile apps with React Native.</li>
 <li>💡 Open to opportunities, collaboration and discussions.</li>
-<li>📫 Let's Connect:[Portfolio](https://nitika-nextjs-portfolio.vercel.app/)</li>
+
+📫 Let's Connect:[Portfolio] (https://nitika-nextjs-portfolio.vercel.app/)
 
 <!--LinkedIn | Portfolio | Twitter
 
