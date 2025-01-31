@@ -1,6 +1,6 @@
 <h3>👩🏻‍💻 Software Engineer | Frontend Developer</h3>
 
-<h2>🚀 Tech Stack: Next.js | React | React native | TypeScript | JavaScript | Tailwind CSS </h2>
+<h3>🚀 Tech Stack: Next.js, React, React native, TypeScript, JavaScript, Tailwind CSS </h3>
 
 <li>🎨 Building seamless and engaging user experiences with React and Next.js</li>
 <li>📱 Creating dynamic cross-platform mobile apps with React Native.</li>
