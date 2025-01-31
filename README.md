@@ -1,9 +1,10 @@
-  Hi, I'm Nitika Jain! 👋
+Hi, I'm Nitika Jain! 👋
 👩🏻‍💻 Software Engineer | Frontend Developer
-🚀 Tech Stack: Next.js | React | React Native | TypeScript | JavaScript | Tailwind CSS
+🚀 Tech Stack: Next.js, React, React native, TypeScript, JavaScript, Tailwind CSS
 
-🚀 Building seamless and engaging user experiences with React.js and Next.js.
+🔭 Building seamless and engaging user experiences with React and Next.js.
 
+<!--
 🎨 Styling modern, responsive applications using Tailwind CSS for efficiency and consistency.
 
 📱 Creating dynamic cross-platform mobile apps with React Native.
