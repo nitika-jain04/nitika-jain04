@@ -1,13 +1,11 @@
-👩🏻‍💻 Software Engineer | Frontend Developer
+<h4>👩🏻‍💻 Software Engineer | Frontend Developer</h4>
 
-<h2>🚀 Tech Stack: Next.js | React | React native | TypeScript | JavaScript | Tailwind CSS</h2>
+<h3>🚀 Tech Stack: Next.js | React | React native | TypeScript | JavaScript | Tailwind CSS</h3>
 
-<h3>🔭 Building seamless and engaging user experiences with React and Next.js. </h3>
-<h3>📱 Creating dynamic cross-platform mobile apps with React Native. </h3>
-
+🔭 Building seamless and engaging user experiences with React and Next.js.
+📱 Creating dynamic cross-platform mobile apps with React Native. 
 💡 Open to opportunities, collaborations, and discussions—let’s create something incredible together!
-
-📫 Let's Connect: LinkedIn | Portfolio | Twitter
+<!--📫 Let's Connect: LinkedIn | Portfolio | Twitter
 
 <!--
 🎨 Styling modern, responsive applications using Tailwind CSS for efficiency and consistency.
